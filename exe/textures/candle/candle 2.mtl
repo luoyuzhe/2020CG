@@ -1,0 +1,40 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd candle_blinn1SG_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl flameCurly1ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.07 0.07 0.07
+Ni 1.00
+newmtl flameCurly7ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.07 0.07 0.07
+Ni 1.00
+newmtl flameCurly9ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.07 0.07 0.07
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd candle_lambert2SG_BaseColor.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd candle_blinn1SG_BaseColor.png
+Ni 1.00
